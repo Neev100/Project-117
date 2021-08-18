@@ -1,0 +1,23 @@
+body {
+    font-family: cursive;
+}
+.header {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px green;
+    color: green;
+}
+.heading_div {
+    float: none;
+    margin: 10px;
+    box-shadow: 10px 10px 10px green;
+    background: lightgreen;
+    color: green;
+    border-radius: 15px;
+    padding: 10px;
+}
+.heading_div2 {
+    color: green;
+    font-size: 19px;
+}
